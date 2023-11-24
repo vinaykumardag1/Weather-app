@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4ecaf76.css",
+    "main.js": "/static/js/main.db513fb7.js",
+    "static/js/787.aafc6230.chunk.js": "/static/js/787.aafc6230.chunk.js",
+    "static/media/6-63182_weather-snow-clipart-png-download-transparent-weather-snow.png": "/static/media/6-63182_weather-snow-clipart-png-download-transparent-weather-snow.a7ff9c90171cb75076c8.png",
+    "static/media/clipart-rain-icon-11.png": "/static/media/clipart-rain-icon-11.8a2b291b3ba818f031e9.png",
+    "static/media/wind.png": "/static/media/wind.fb7e9fd9a6168b0aeb05.png",
+    "static/media/Search-PNG-Clipart.png": "/static/media/Search-PNG-Clipart.265a38582130035fe898.png",
+    "static/media/Rainy.png": "/static/media/Rainy.8abec10a652dfe9e7edb.png",
+    "static/media/sun-icon-png-6.png": "/static/media/sun-icon-png-6.b568955b71566202cb29.png",
+    "static/media/4571485.png": "/static/media/4571485.1eada1bcd33a7128e195.png",
+    "index.html": "/index.html",
+    "main.e4ecaf76.css.map": "/static/css/main.e4ecaf76.css.map",
+    "main.db513fb7.js.map": "/static/js/main.db513fb7.js.map",
+    "787.aafc6230.chunk.js.map": "/static/js/787.aafc6230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ecaf76.css",
+    "static/js/main.db513fb7.js"
+  ]
+}
